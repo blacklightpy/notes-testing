@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "blacklightpy.github.io/notes",
+    baseUrl: "blacklightpy.github.io/notes-testing",
     ignorePatterns: ["private", "templates", ".obsidian", "_assets"],
     defaultDateType: "created",
     theme: {
